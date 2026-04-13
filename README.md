@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/goodreads_logo.png" alt="Goodreads Logo" width="350"/>
+  <img src="img/goodreads_logo_1.png" alt="Goodreads Logo" width="350"/>
 </p>
 
 # 📚 EDA: GoodReads Books
@@ -131,4 +131,4 @@ jupyter notebook Código/EDA_Books.ipynb
 ## 👤 Autora
 
 **Fátima Goiri**  
-Bootcamp Data Analytics · Abril 2026
+Bootcamp The Bridge Data Analytics · Abril 2026
