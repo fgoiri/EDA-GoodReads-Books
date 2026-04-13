@@ -11,20 +11,18 @@ Análisis Exploratorio de Datos (EDA) sobre el dataset de mejores libros de Good
 ## 📁 Estructura del Repositorio
 
 ```
+EDA-GoodReads-Books/
 │
 ├── src/
 │   ├── data/
 │   │   └── goodreads_best_books.csv    # Dataset original
-│   └── main.ipynb                      # Notebook principal con todo el análisis
+│   └── main.ipynb                      # Notebook principal con el análisis
 │
 ├── Memoria/
-│   └── Memoria_EDA_Goodreads.pdf       # Documento con el proceso completo
+│   └── Memoria_EDA_Goodreads.pdf       # Documento del proceso
 │
 ├── Presentacion/
 │   └── EDA_Goodreads.pptx              # Presentación de resultados
-│
-├── img/
-│   └── (imágenes del README)
 │
 ├── .gitignore
 └── README.md
