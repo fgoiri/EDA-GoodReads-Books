@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/goodreads_logo_1.png" alt="Goodreads Logo" width="350"/>
+  <img src="src/img/goodreads_logo_1.png" alt="Goodreads Logo" width="350"/>
 </p>
 
 # 📚 EDA: GoodReads Books
@@ -45,7 +45,7 @@ Analizar qué factores influyen en los ratings de los libros en Goodreads a trav
 ## 🗂️ Dataset
 
 <p>
-  <img src="img/kaggle_logo.png" alt="Kaggle Logo" width="120"/>
+  <img src="src/img/kaggle_logo.png" alt="Kaggle Logo" width="120"/>
 </p>
 
 - **Fuente:** [Goodreads Best Books Dataset — Kaggle](https://www.kaggle.com/datasets/cristaliss/goodreads-books-best-books-ever)
