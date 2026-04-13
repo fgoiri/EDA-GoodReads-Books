@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/goodreads_logo.png" alt="Goodreads Logo" width="200"/>
+  <img src="img/goodreads_logo.png" alt="Goodreads Logo" width="350"/>
 </p>
 
 # 📚 EDA: GoodReads Books
