@@ -131,4 +131,4 @@ jupyter notebook Código/EDA_Books.ipynb
 ## 👤 Autora
 
 **Fátima Goiri**  
-Bootcamp Data Analytics · Abril 2026
+Bootcamp The Bridge Data Analytics · Abril 2026
